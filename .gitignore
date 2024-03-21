@@ -1,0 +1,14 @@
+.venv/
+.env
+.streamlit/secrets.toml
+idee1.txt
+idee2.txt
+idee3.txt.groovy
+new-blog-post.md
+start.sh
+streamsearch.py
+temp.py
+test.py
+test2.py
+testComplet.py
+Home.py
