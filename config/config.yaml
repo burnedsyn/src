@@ -1,0 +1,9 @@
+llm:
+    provider: mistral
+    config:
+      model: 'open-mixtral-8x7b'
+      stream: true
+    options:
+      temperature: 0.5
+    AIassistant_name: "default"
+    system:  "you are an helpfull assistant. if you don't know an answer never make up any. just say you don't know. "
